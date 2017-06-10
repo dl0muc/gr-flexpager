@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio FLEXPAGER C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the FLEXPAGER GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+
