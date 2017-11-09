@@ -132,7 +132,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>448450000</value>
+      <value>448425000</value>
     </param>
   </block>
   <block>
@@ -321,7 +321,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(232, 124)</value>
+      <value>(272, 124)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -376,11 +376,11 @@
     </param>
     <param>
       <key>file</key>
-      <value>/home/andz/workspace/git/dl0muc/gr-flexpager/examples/testfiles/0xaa.bin</value>
+      <value>/home/andz/ownCloud/Shared/FLEX/128_frames_gurke_0x42084.bin</value>
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(16, 132)</value>
+      <value>(24, 132)</value>
     </param>
     <param>
       <key>_rotation</key>
@@ -2122,7 +2122,7 @@
     </param>
     <param>
       <key>_coordinate</key>
-      <value>(464, 116)</value>
+      <value>(488, 116)</value>
     </param>
     <param>
       <key>_rotation</key>
